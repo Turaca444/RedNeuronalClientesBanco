@@ -81,4 +81,5 @@ MODELOS PREDICTIVOS
 Es un nombre dado a una colección de técnicas matemáticas con la meta en común de encontrar una relación matemática entre un objetivo, respuesta o variable dependiente y varios factores de predicción y variables independientes, con el objetivo de medir valores futuros de estos factores de predicción e insertándolos en la relación matemática para predecir valores futuros de la variable objetivo. Como estas relaciones nunca son perfectas en la práctica, es deseable dar una solución de dudeza en las predicciones. Para identificar aquellos factores que interceden e la predicción, se pueden agrupar en tres categorias: aquellos que tienen poca posibilidad de afectar el resultado, aquellos con cierta certeza para afector los resultados y deben ser considerados en el modelo y los que se encuentran en el medio, que pueden influir o no en el resultado final, siendo necesario identificar a través de una serie de técnicas si deben ser incluidas en el modelo.
 
 6 PASOS DEL ANÁLISIS PREDICTIVO
+![image](https://user-images.githubusercontent.com/61064291/180099077-517bf8cd-8b91-4b83-8ae3-f74027d0597f.png)
 
