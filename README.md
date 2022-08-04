@@ -85,3 +85,12 @@ Es un nombre dado a una colección de técnicas matemáticas con la meta en com�
 
 ![image](https://user-images.githubusercontent.com/61064291/180099077-517bf8cd-8b91-4b83-8ae3-f74027d0597f.png)
 
+
+CONCLUSIONES
+
+En esta sección se destacan las conclusiones principales obtenidas en este trabajo de investigación y se resumen los resultados obtenidos del modelo propuesto. Se comentan algunos aspectos relacionados con los trabajos futuros que siguen la propuesta planteada y sobre otros temas de investigación que se pueden derivar. El principal propósito de la elaboración de un Modelo de Análisis Predictivo se basa en la aplicabilidad en un entorno organizacional que no genere el estancamiento de las actividades de la empresa. El planteamiento del modelo consiste en que una entidad bancaria pueda fidelizar y retener a sus clientes potenciales. De esta manera, con la tecnología actual del mercado se propuso un Modelo de Análisis Predictivo para la retención de los clientes con tendencias a la deserción en entidades bancarias, a través del comportamiento de los clientes en cuanto a sus transacciones, movimientos y actividad financiera. El modelo diseñado cumple con el propósito de pronosticar clientes con tendencias a la deserción en Bancos  a través del análisis del comportamiento, alcanzando la mejor precisión (0.8627) con el algoritmo de redes neuronales, teniendo también mejores resultados en los falsos/positivos y falsos/negativos en comparación con otros algoritmos.
+
+
+
+
+
