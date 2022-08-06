@@ -11,6 +11,8 @@
 
 Con estos datos, el banco permite determinar con exactitud de los clientes con tendencias a la deserción.
 Se trata de predecir, con información similar de clientes nuevos, si abandonarán el banco o no.
+
+
 PRESENTACIÓN
 
 En la actualidad, el rol que cumplen los bancos en la economía de un país y el impacto que tienen en las diferentes clases sociales es cada vez más importante. Estos han sido un mercado que historicamente ha recibido un gran número de quejas y reclamos. Es por ello que, un mal servicio por parte del proveedor, una deficiente calidad de los productos, son las principales razones por las que los clientes abandonan una entidad bancaria.
